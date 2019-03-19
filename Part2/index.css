@@ -49,3 +49,12 @@ section span:nth-of-type(3) {
   width: 100px;
   border: 1px solid #000;
 }
+
+#idInput, #colorInput, #btn, #reset {
+  padding: 20px;
+  font-size: 12pt;
+  position: relative;
+  left: 600px; 
+
+}
+
